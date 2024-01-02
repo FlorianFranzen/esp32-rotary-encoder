@@ -17,7 +17,7 @@ Encoders that provide a push button are supported, however this component does n
 
 ## Dependencies
 
-It is written and tested for v3.0-v3.2 of the [ESP-IDF](https://github.com/espressif/esp-idf) environment, using the xtensa-esp32-elf toolchain (gcc version 5.2.0). It may or may not work with older or newer versions.
+It is written and tested for v3.0-v3.2 of the [ESP-IDF](https://github.com/espressif/esp-idf) environment, using the xtensa-esp32-elf toolchain (gcc version 5.2.0). It may or may not work with older or newer versions. This fork includes additional patches to support the latest stable (currently v5.1.2).
 
 ## Example
 
